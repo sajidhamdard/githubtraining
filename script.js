@@ -1,1 +1,1 @@
-console.log(new Intl.DateTimeFormat("zh-sg").format(new Date()));
+console.log("Hello");
